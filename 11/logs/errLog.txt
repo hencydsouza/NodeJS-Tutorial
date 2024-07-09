@@ -1,0 +1,6 @@
+2024/07/09	11:05:53	76398c77-b97d-4b90-8b70-efacabf1d5e5	Error: Not allowed by CORS
+2024/07/09	11:23:14	78aa1fa9-bcbb-4cde-9003-e72a62af04e4	Error: ENOENT: no such file or directory, stat 'C:\Users\hency\OneDrive\Desktop\MERN\NodeJS Tutorial\08\routes\...\views\subdir\test.html'
+2024/07/09	11:24:22	a8ed2128-e15e-4a65-8e6b-5064da7f6e50	Error: ENOENT: no such file or directory, stat 'C:\Users\hency\OneDrive\Desktop\MERN\NodeJS Tutorial\08\routes\...\views\subdir\index.html'
+2024/07/09	11:24:32	1361ae9c-b0d7-444b-b4b8-e8338b73d2ab	Error: ENOENT: no such file or directory, stat 'C:\Users\hency\OneDrive\Desktop\MERN\NodeJS Tutorial\08\routes\...\views\subdir\index.html'
+2024/07/09	11:25:01	ed000469-14a9-47a1-affa-aca7239a5b8a	Error: ENOENT: no such file or directory, stat 'C:\Users\hency\OneDrive\Desktop\MERN\NodeJS Tutorial\08\routes\...\views\subdir\index.html'
+2024/07/09	11:27:54	3f7fc7d2-6b20-4cf4-b73c-1dc98729b24d	Error: ENOENT: no such file or directory, stat 'C:\Users\hency\OneDrive\Desktop\MERN\NodeJS Tutorial\08\views\subdir\test.html'
